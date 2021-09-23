@@ -11,3 +11,5 @@ Inputs:
 Sample output:
  Your name is Joe Lunchbox, and your email is joe@koolsandwiches.org.
 """
+name = str( input("input name:")).stip()
+email = str( Input("input name:"))
